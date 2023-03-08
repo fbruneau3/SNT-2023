@@ -3,4 +3,4 @@ Doucle-cliquer sur le lien "Launch Binder" ci-dessous pour démarrer mybinder (l
 
 Vous pouvez ensuite ouvrir le dossier SNT-2023 puis le fichier le fichier "rando-alpes-eleves" en double-cliquant également dessus. Il s'agit d'un jupyter notebook contenant des cellules exécutables en python. Cela permet de travailler en ligne sans rien avoir à installer sur votre ordinateur. Les cellules contenant du code sont directement éxécutables en cliquant sur "Exécuter".
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fbruneau3/spe-PC-2022-2023.git/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fbruneau3/SNT-2023.git/main)
